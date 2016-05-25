@@ -1,0 +1,37 @@
+
+img {
+	display: block;
+	max-width: 99.85%;
+	position: fixed;
+	margin-left: -7px;
+	top: 60px;
+	z-index: -1;
+}
+.header {
+	display: block;
+	background: #505;
+	color: #b0c;
+	height: 64px;
+	position: fixed;
+	width: 99.85%;
+	z-index: 1;
+	margin-top: -20px;
+	margin-left: -7px;
+	margin-right: -7.6px;
+
+}
+.logo {
+
+	padding-left: 30px;
+}
+header {
+	height: 0px;
+	top: 0px;
+}
+p {
+	color: #ffffff;
+	padding-top: 60px;
+}
+
+
+
